@@ -1,0 +1,14 @@
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+scipy
+pytesseract
+rapidfuzz
+easyocr
+datasets
+paddleocr
+paddlepaddle
+ipykernel
+nbformat
