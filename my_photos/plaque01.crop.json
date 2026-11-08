@@ -1,0 +1,5 @@
+{
+  "file": "plaque01.jpg",
+  "note": "Crop box (left, top, right, bottom) in pixels AFTER applying EXIF orientation (image is 2084x4624). Region: title and description of the game 'ODISSEIA HERMESA'.",
+  "box": [757, 1208, 1884, 1661]
+}
