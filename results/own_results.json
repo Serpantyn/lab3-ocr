@@ -1,0 +1,192 @@
+[
+  {
+    "image": "page01_diffuse.jpg",
+    "image_sha256": "228d290b56de1413e6f9da9bd39c292a519d5575bf8ed539ad8135d9b2f7e2a8",
+    "exif": {
+      "datetime": "2026:11:08 21:38:18",
+      "camera": "SM-A325F"
+    },
+    "engine": "EasyOCR",
+    "engine_version": "1.7.2",
+    "params": {
+      "langs": [
+        "uk",
+        "en"
+      ],
+      "gpu": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "[ІАрw50к ПЛіВСЯ  ПОВАГОМ ((osALJ  КВШМ Q'KИ Kl%А; СЕfE (ОЗИРА6 НА\"крчГи (₽oі МИ ЕЛИСКЧИИМ И 0Ч1f4; iкЮЯ' 3ЧПИ Н9р С & 1 АРГб Р5ГЛяЧАВ ЗЕЛЕИЕ ИИВ'% , Тp 3и0ВЧ И[06' Т0 9И0Ь . СТАИ0 6И рС % %Е-ИЕБЧ fb И4 гі рkч - ' 26106 ОГ Л Л& б ҐОЛЕ , (cь ПЕРСЙ  06 i (рАни# М1СТОЧо K (ФСЕ RЕ & ЛЧ K, Wl Иl4и' 0 Б4лц' Пі & КИM ше ИЕ фи (ОХЛи ( ЕСИ % Hі KAЛ1) #( {  7 0% ЗАЦ\"Х ЛИ_ Ґ0)ЕЛв Hi Jи` K\" кАЮТb р KMХ hc@fИ 2IHQ й  3є%;р . От ОЛI МНИ6 h #4 КЕРЕЛ Чk' М ҐQ'5kЧ ПО T9V Fik M1 CTolkA (Т4Р? 0 F Ep КVb( % ЛИЦ ЕM f0 йог0 | ГЛ%ичр ИM рЧ/КЧ' ҐЕМ Eb1 1 ҐО Гл % & 14 KPAWMC #( ИТ0 , l (тж₽ ) \"УТ kpА( 1 X > 6А ) Иi %С )) Пі/ (€ ЛО М, П1ОЯЧМ4 1 (AM COCi тVT) NA-ЧТ 6 Clilb Ki Шl 0Ц ҐрОWДОВ 300 п06 € н4рс % ~i Р\"ШИ\" %АЛІ - (nч (ти \"ц и 6 1 фОЛИИ v Ґ0 6Ер Ичр 3 k'РHQC 0 ШЛ Я} Ч НK 06 И1- %( 0 K 1 I71 О₽ (ОМ{ #( 3 Е Ж Е ИИ МИ n( ИТАМИ Oc сiді1 ш0 6 ,1O ІО/ні € '` НИМИ И4Х И ЛІфС % \"Ир р46 IР М (AN ЇМ KDpc Ki ПУ V0k mСИТ4 ГЛ ЖНЧВ И4 WоГQ Ж4Лі гЛ  ИЧЬ I4 Hlч ЛИЦЕ %4 Оіти лО 6 08РКЧО СкидАМk M Д Й-ч6 08-4-16",
+    "confidence": 0.373,
+    "seconds": 44.42,
+    "cer": 0.651,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "page01_diffuse.jpg",
+    "image_sha256": "228d290b56de1413e6f9da9bd39c292a519d5575bf8ed539ad8135d9b2f7e2a8",
+    "exif": {
+      "datetime": "2026:11:08 21:38:18",
+      "camera": "SM-A325F"
+    },
+    "engine": "PaddleOCR",
+    "engine_version": "3.7.0",
+    "params": {
+      "lang": "uk",
+      "fast_models": true,
+      "mkldnn": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "CEBE; ПОЗИРAВ НАBКРУГИ СВОЙМИ И БЛИСКУЧИИ ОЧИМА; ИНОРИ  34иНявсЯ і AоBГо РО3ГАв PE-HE5YA6 HA АРАНИЙ МИСТОЧОК BECИDHI KAJDMI-QM3 ЗАЦВИИ,ПОЗЕSЕНИЛИ: КУМКАЮТ6 В НИХ АБИ РАНО Й ВЕЧИР. От ОПИНИВС НА НЕВЕЛИЧКИМ ГОРЕКУ ПО ТОЙ OTNCE, TYT KPAUi XDIBA, Hinc )) ПIП СЕЛОМ, - ПОРУМАВ САМ СОБИ,-ТУТ, МАВУТ6, СИЛ6ИИШИЙ РОU МРОЙШОВ ЗНОВ ПОВЕРНУВСЯ,- РУШИВ ААЛИ. Спусти вшись в АолинУ, пОвериув 3 курного и WNAXY HA  OGHI  -MOK-IMILOB noMIm ЗЕSЕНИМИ NИТАМИ. OС6 ПИАИЙШОB A0 OpHiei HИBИ,ИАХИЛИВСЯ, БИРВАВ ПРИ 1  CAМИМ КОРЕНИ ПУЧОК МИТА, / ГЛЯНУВ НА ЙОГО РАЯИ ГЗЯНУВ НА НИBУ- И JИЩЕ ЗАОВИТИЛО6 ОМАФОЮ. СKиAн4кM..П3-46,08-4-26",
+    "confidence": 0.567,
+    "seconds": 9.39,
+    "cer": 0.534,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "page02_side.jpg",
+    "image_sha256": "0ea82b4811cef23854c55c053648626d104a0cf4da9ce2da2487f11bcb8d9740",
+    "exif": {
+      "datetime": "2026:11:08 22:00:19",
+      "camera": "SM-A325F"
+    },
+    "engine": "EasyOCR",
+    "engine_version": "1.7.2",
+    "params": {
+      "langs": [
+        "uk",
+        "en"
+      ],
+      "gpu": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "Пхгчє? < ПЛіВс?   ГОРАГМ ПООЗАLЛА ₽АВДИ Рк# k?Ад СЕБЕ   fА6 ґхйгчГи CвойRи ЕлиСкЧииММ MKfA; ікод'' 3ЧПИ НЯ6С% 1 довГО Р5ГлуАд ЗЕЛЕНЕ 71e%9  Т 3н06ч Й108; Т0 9ИОр СТАК0 6М6C% ₽Е-ИЕБЧfЬ И4 тіркч  =i Pk? 0ГЛfд/ ПОЛЕ Oct ПЕРСЙ!06 i АРАниЙ М1СТ0чок ToCE?S ~ ЛЧ<; Kk %\"?и' 9 БАЛЦ' Пі я НИМ ше KЕ Ви (9ХЛи ІЕСиян' <АЛЮ % Х  = 07 зАцв' Ли ҐО# ЕЗЕні ли: К\"(кAютb ₽ KИХ RCASY (4н9 # Вєч;р ` От О7 ИНИ6U6 H4 КЕВЕЛИЧкі M [QРБКЧ П0 Тои Fik M1(To?kk (тАр 0 € Ep %UбС Я лИцЕМ Я0 ирго ; ГллИЧб KA pЧАК' ПЕрЕрі 6 ґ; ГЛу ~ ## KР4G |Є \"f ИТD , JI Отж E TЧТ k?AЩ1 x J Б4 ) Иiтс Zі& (€ ЛО М ГОаЧМА ₽ (AM cOCi тИТ) NkR T 4 CИл;иi шMй Pou ҐАМшОв 36  пор єрнчрс } ~і pULИр ЯАЛІ - (nч (ти Вши } 1 (ОJМ*V п0 bЕрИЧБ 3 k\"РНОГ 0 ШЛ яХч HK 06K1 T0K ПіШО₽ (ОМі ж 3Е ЛЕИИМИ n ИТАМИ Ot пiдi7ш0р 40 О ні € ' ниби ИAХW ЛWВС? В4рбАб ПРИ (ANjM KDpEKI ПУ u0k 4CTA ГЛУНЧВ И4 ЙоГQ ЯАЛі гЯ ХИЧб H4 HI 69 ЛИЦЕ ЗА ФіТи лQ 6 OЯfА 8и0; (кидАичк M; Д, П-ч; 0-4+15 ",
+    "confidence": 0.432,
+    "seconds": 35.92,
+    "cer": 0.554,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "page02_side.jpg",
+    "image_sha256": "0ea82b4811cef23854c55c053648626d104a0cf4da9ce2da2487f11bcb8d9740",
+    "exif": {
+      "datetime": "2026:11:08 22:00:19",
+      "camera": "SM-A325F"
+    },
+    "engine": "PaddleOCR",
+    "engine_version": "3.7.0",
+    "params": {
+      "lang": "uk",
+      "fast_models": true,
+      "mkldnn": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "AE-HE6YA6 H4 АРАНИЙ МИСТОЧОК BECHOHI KAJHMI-aM  ЗАЦВИДИ,ПОЗЕЗЕНИЛИ: КУМКАЮТЬ В НИХ АБИ РАНО И ВЕЧР. ОГ ОПИНИВСЬ НА НЕВЕДИЧКИМ ГОРЕКУ ПО ТОЙ БИК МИСТОВКА; СТАВ, ОБЕРИВСЯ ЛИЦЕМ АО ЙОГО; ГЛЯНУВ НА РУАКУ OTNE,TYTKPAI XS6A,HInC )) ЗНОВ ПОВЕРНУВСЯ,-И РУШИВ ААЛИ. ,  -МOК-И ПИШОВ ПОМИН ЗЕЗЕНИMИ NИТАМИ. ОС6 ПИАИЙШОВ AO Ofniei ГЛЯНУВ НА ЙОГО ААЛИ ГЯНУВ НА НИВУ-И ЛИЦЕ ЗАОИТИЛО6 ОМАДАО. Скинук М.Д.13-4608-1-26",
+    "confidence": 0.598,
+    "seconds": 7.04,
+    "cer": 0.668,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "page03_angle.jpg",
+    "image_sha256": "988340efe21010c93be80b6289547fe8a670a45e259d9912aa19010b945fd516",
+    "exif": {
+      "datetime": "2026:11:08 21:32:25",
+      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "engine": "EasyOCR",
+    "engine_version": "1.7.2",
+    "params": {
+      "langs": [
+        "uk",
+        "en"
+      ],
+      "gpu": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "t1 ПАр\"ееу M4 \"A, C ₽f ( 0 1o 'g 4fA ₽ '3{ $ % Af' SF VЕVЕ кxrчfи €eo \"и стлv < FoRАtoм (tegAA JA ,,Ав/и 7Ю,\",' 7ук и ЧП1М 7 %7 €,я Ж071 0 TV1 = ИLL Ч {b ИА 5Fi 1 Рkч имв2я  Тc 37029 F ₽Аск Ч4Им И И Jwr2 ` 16 @Чи X 4 ; \"И2 ₽ СТА И0 ВИ Pc % #Р^нии МiC 1 04о % ПосЕ re ; RKer { JL Y , % A? 7, Nf Oe( ПIi ,\" {1€ ₽f И NNo ₽ HKM I,f ИЕ Ви (ОХ ли ₽ Жи X rF cи ? ні W7&} K K4 #и зимі , Ч FA \"1}' {10 2 Е УЕЖі Jl И ` k\" MK 4 10 76 П0 Тои \"c 4си FA K? <A ЛЮ # ; 7E Ч;р  0т d %C Orl ИНИВ (6 ЗA N,1з ЛИ H 4 ?ЕЗЕ я ИЧкі м [Q ₽Б K 0 KA ₽чМАЧ; Е; & M 1 СТ CKzA СТА/3 , 0 € ₽ ₽ 161 С % ли ц € M 70 и 0Го , Гл % ич₽3 X JL БА > Иi %С ПЕр Е b1 % П0 ГЛ я # 1A K PAV И € % И Т0  От жс E > 7 ч7 & ₽ А (q ` LИ [^ Я0Ц; ҐР0W ЦОВ; qі & С€ Ло M ГIО Ж9 М 4 13 САM coсi т ИТ) NАG Т 6 > СИл6 иі Зиор П 0 ₽ € ₽нч1 с % ) ~ i ₽UШИ ₽ ЖАлі' ЦІЛ 9 X Ч HA 06 И1 - (пч (т И ВцІ и € 6 1 ХО Л И И 0 70 1 E ₽ ИЧр? 2с ИТАМИ kЧР НОC 0 0c6 qіді W Ш0 1 {0 ? 0 K 7ti Ш0 ₽ (омt'Ж 3 Е я ЕKИ МИ (AK 1 М KDpE AI ПЧ Ч0k m И тA, О,4 ні € 7 ниби ИАХ И ЛИЙ С % 1Ир рА6 Пр И З А а>іти ло 6  QЯРAЯ0К0, ЖАл; гЛ Х ИЧб HA KI 69 > ЛИЦЕ Г Ллнч  И4 wогo M; д, П9-ч%,0b-44-16 Скиддиччк",
+    "confidence": 0.388,
+    "seconds": 17.91,
+    "cer": 0.946,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "page03_angle.jpg",
+    "image_sha256": "988340efe21010c93be80b6289547fe8a670a45e259d9912aa19010b945fd516",
+    "exif": {
+      "datetime": "2026:11:08 21:32:25",
+      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "engine": "PaddleOCR",
+    "engine_version": "3.7.0",
+    "params": {
+      "lang": "uk",
+      "fast_models": true,
+      "mkldnn": false
+    },
+    "preprocessing": "raw, long side 2000 px",
+    "text": "103UPAB POSTSAC9AB ) СкиAAн4ук M.Д. П3-46,0B-1-26",
+    "confidence": 0.621,
+    "seconds": 2.31,
+    "cer": 0.973,
+    "fields": null,
+    "needs_review": true
+  },
+  {
+    "image": "plaque01.jpg",
+    "image_sha256": "fe94511cec2d463e29b4763e1687f87ac82218ed27063ab0986901e8ce4bd450",
+    "exif": {
+      "datetime": "2026:11:08 21:36:30",
+      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "engine": "EasyOCR",
+    "engine_version": "1.7.2",
+    "params": {
+      "langs": [
+        "uk",
+        "en"
+      ],
+      "gpu": false
+    },
+    "preprocessing": "raw, crop by plaque01.crop.json",
+    "text": "ОДІССЕЯ ГЕРМЕСА 190229695 Ти давньогрецький бог Гермес, але твоє безтурбот- не житТя на Олімпі під загрозою Ти загубив корону Зевса, i ri частини тепер розкидані по всьому світу . Те - пер доведеться с;ститися В грішний свіT ?брати уламки корони , ьу ко, истовуючи меч , сгис хитрість у бороть бі 3 ворогами",
+    "confidence": 0.845,
+    "seconds": 4.77,
+    "cer": 0.087,
+    "fields": {
+      "catalogue_code": "190229695",
+      "valid_length": true
+    },
+    "needs_review": false
+  },
+  {
+    "image": "plaque01.jpg",
+    "image_sha256": "fe94511cec2d463e29b4763e1687f87ac82218ed27063ab0986901e8ce4bd450",
+    "exif": {
+      "datetime": "2026:11:08 21:36:30",
+      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "engine": "PaddleOCR",
+    "engine_version": "3.7.0",
+    "params": {
+      "lang": "uk",
+      "fast_models": true,
+      "mkldnn": false
+    },
+    "preprocessing": "raw, crop by plaque01.crop.json",
+    "text": "ОДИССЕЯ ГЕРМЕСА 190229695 Ти -давньогрецький бог Гермес, але твоe безтурбот- ne *уття на Олимпи нiд загрозою. Ти загубив корону Зевса, i її частини тепер розкидани по всьому свity.Te- nep доведеться спуститися  в грішний CBIT і3'брати уламки корони,використовуючи меч, сгиси хитристь у боротьби з ворогами",
+    "confidence": 0.821,
+    "seconds": 4.6,
+    "cer": 0.113,
+    "fields": {
+      "catalogue_code": "190229695",
+      "valid_length": true
+    },
+    "needs_review": false
+  }
+]
