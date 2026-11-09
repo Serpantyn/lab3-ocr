@@ -96,7 +96,7 @@
     "image_sha256": "988340efe21010c93be80b6289547fe8a670a45e259d9912aa19010b945fd516",
     "exif": {
       "datetime": "2026:11:08 21:32:25",
-      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      "camera": "SM-A325F"
     },
     "engine": "EasyOCR",
     "engine_version": "1.7.2",
@@ -120,7 +120,7 @@
     "image_sha256": "988340efe21010c93be80b6289547fe8a670a45e259d9912aa19010b945fd516",
     "exif": {
       "datetime": "2026:11:08 21:32:25",
-      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      "camera": "SM-A325F"
     },
     "engine": "PaddleOCR",
     "engine_version": "3.7.0",
@@ -142,7 +142,7 @@
     "image_sha256": "fe94511cec2d463e29b4763e1687f87ac82218ed27063ab0986901e8ce4bd450",
     "exif": {
       "datetime": "2026:11:08 21:36:30",
-      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      "camera": "SM-A325F"
     },
     "engine": "EasyOCR",
     "engine_version": "1.7.2",
@@ -169,7 +169,7 @@
     "image_sha256": "fe94511cec2d463e29b4763e1687f87ac82218ed27063ab0986901e8ce4bd450",
     "exif": {
       "datetime": "2026:11:08 21:36:30",
-      "camera": "SM-A325F\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      "camera": "SM-A325F"
     },
     "engine": "PaddleOCR",
     "engine_version": "3.7.0",
